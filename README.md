@@ -12,13 +12,15 @@ Louise can use the results of the analysis to plan the fundraising campaign for 
 
 ### Analysis of Outcomes Based on Launch Date
 This analysis filters all campaigns which fall under the subcategory *'theatre'* and have outcomes of either *'succesful'*, *'failed'* or *'canceled'*. This is done through use of *pivot table* function. The table provides a count of the campaigns under each of the outcome category across all the months.
-
-![Pivot Table](https://user-images.githubusercontent.com/84694664/123526316-0e222a00-d6a5-11eb-9aae-ec23aa777ee3.png)
-
 The pivot table data is also plotted into a *pivot chart* which helps visually understand the trends in outcomes based on the launch month.
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/84694664/123526450-01520600-d6a6-11eb-884b-6beb59fd1b57.png)
 
 ### Analysis of Outcomes Based on Goals
+This analysis summarizes the data based on goal range from less than 1000 to greater than 50,000, categorzing it into subdivisions of 5000. Using COUNTIFS function the number of *'succesful'*, *'failed'* or *'canceled'* outcomes are found. The outcome data is also converted into percent of the total projects in that range.
+The following line graph helps visualize the data of outcomes vs goal.
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/84694664/123526693-96a1ca00-d6a7-11eb-81db-802dc4077960.png)
 
 ### Challenges and Difficulties Encountered
 
