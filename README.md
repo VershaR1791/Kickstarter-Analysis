@@ -22,24 +22,24 @@ The following line graph helps visualize the data of outcomes vs goal.
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/84694664/123526693-96a1ca00-d6a7-11eb-81db-802dc4077960.png)
 
-### Challenges and Difficulties Encountered
+## Challenges and Difficulties Encountered
 This analysis does not take into account several other factors which may help Louise frame a better fundraising campaign. For instance the trends based on country will be helpful for Louise to plan based on where her play will be launched.
 To create the outcomes based on goal table it was cumbersome to create it manually. Automating the process to get the results through code would have reduced time and possibility of human error.
 
 ## Results
 
-*Conclusions about the Outcomes based on Launch Date*
+###Conclusions about the Outcomes based on Launch Date
  - The most successful fundraising campaigns are in the month of May. Overall the sucessful campaigns in comparison to failed ones is over 50% for the months of May, June and July. There is a decreasing trend in successful campaigns from May to September with a slight increase again in October. This is possibly due to theater season which runs typically from September to May and the fundraising campaign is in preparation for that. 
  - The number of campaigns failing each month is relatively constant. The failure rate in relation to the total number of the campaigns during the actual theatre season (September to May) is higher than during May to July.
 
 Louise should launch her fundraising campaign in the month of May-July to see a higher success chance.
 
-*Conclusions about the Outcomes based on Goals*
+###Conclusions about the Outcomes based on Goals
 - The highest successful campaign (76%) is when the campaign goal is lesser than $1000. The success rate decreases steeply as the campaign goal amount increases.
 - Hoever the success rate increases to 67% for goal amount of $35000 to $50000. On reviewing the actual data it can be seen that the dataset is very small (a total of 9 campaigns with 6 successful ones). This cannot be the only result to draw a conclusion.
 
 Louise should keep her goal within $5000 to ensure a successful campaign.
 
-*Limitations of this dataset*
+###Limitations of this dataset
 
-*Some other possible tables and/or graphs*
+###Some other possible tables and/or graphs
