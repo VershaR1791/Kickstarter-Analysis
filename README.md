@@ -24,6 +24,7 @@ The following line graph helps visualize the data of outcomes vs goal.
 
 ### Challenges and Difficulties Encountered
 This analysis does not take into account several other factors which may help Louise frame a better fundraising campaign. For instance the trends based on country will be helpful for Louise to plan based on where her play will be launched.
+To create the outcomes based on goal table it was cumbersome to create it manually. Automating the process to get the results through code would have reduced time and possibility of human error.
 
 ## Results
 
@@ -32,7 +33,7 @@ This analysis does not take into account several other factors which may help Lo
  - The number of campaigns failing each month is relatively constant. The failure rate in relation to the total number of the campaigns during the actual theatre season (September to May) is higher than during May to July.
 
 *Conclusions about the Outcomes based on Goals*
-
+- 
 *Limitations of this dataset*
 
 *Some other possible tables and/or graphs*
