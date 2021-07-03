@@ -25,6 +25,8 @@ The following line graph helps visualize the data of outcomes vs goal.
 ### Challenges and Difficulties Encountered
 This analysis does not take into account several other factors which may help Louise frame a better fundraising campaign. For instance the trends based on country will be helpful for Louise to plan based on where her play will be launched.Further, the analysis aggregates the goal amount of the campaigns irrespective of the currency of the country.
 To create the outcomes based on goal table it was cumbersome to create it manually. Automating the process to get the results through code would have reduced time and possibility of human error.
+It is challenging to help Louise determine how much she should expect as an average donation and during what time of the year. This would require in depth analysis of the successful plays and find the ones with a similar storyline. Understanding the trend in average donation will help her create a more specific fundraising campaign.
+Additionally, this analysis does not help Louise plan for how long she should run her fundraising campaign.
 
 ## Results
 
@@ -41,6 +43,7 @@ Louise should launch her fundraising campaign in the month of May-July to see a 
 Louise should keep her goal within $5000 to ensure a successful campaign.
 
 ### Limitations of this dataset
+To create a successful fundraising campaign one must also be able to target the right donors. This dataset does not provide any details on the different type of donors and why they are donating.
 
 ### Some other possible tables and/or graphs
 Some additional analysis based on countries can help Louise review trends and make changes in her fundraising strategies, if required. Below are 2 graphs for US and Great Britain whose results are slighlty different especially for Great Britain. This can be easily extracted by adding a simple filter of *'Country'* to the pivot table in *'Analysis of Outcomes Based on Launch Date'*
