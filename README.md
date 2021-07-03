@@ -23,16 +23,16 @@ The following line graph helps visualize the data of outcomes vs goal.
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/84694664/123526693-96a1ca00-d6a7-11eb-81db-802dc4077960.png)
 
 ### Challenges and Difficulties Encountered
-This analysis does not take into account the trends based on country
+This analysis does not take into account several other factors which may help Louise frame a better fundraising campaign. For instance the trends based on country will be helpful for Louise to plan based on where her play will be launched.
+
 ## Results
 
 *Conclusions about the Outcomes based on Launch Date*
  - The most successful fundraising campaigns are in the month of May. Overall the sucessful campaigns in comparison to failed ones is over 50% for the months of May, June and July. There is a decreasing trend in successful campaigns from May to September with a slight increase again in October. This is possibly due to theater season which runs typically from September to May and the fundraising campaign is in preparation for that. 
  - The number of campaigns failing each month is relatively constant. The failure rate in relation to the total number of the campaigns during the actual theatre season (September to May) is higher than during May to July.
 
+*Conclusions about the Outcomes based on Goals*
 
-- What can you conclude about the Outcomes based on Goals?
+*Limitations of this dataset*
 
-- What are some limitations of this dataset?
-
-- What are some other possible tables and/or graphs that we could create?
+*Some other possible tables and/or graphs*
