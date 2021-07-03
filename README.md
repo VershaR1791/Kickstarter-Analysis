@@ -11,22 +11,25 @@ Louise can use the results of the analysis to plan the fundraising campaign for 
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-This analysis filters all campaigns which fall under the subcategory *'theatre'* and have outcomes of either *'succesful'*, *'failed'* or *'canceled'*. This is done through use of *pivot table* function. The table provides a count of the campaigns under each of the outcome category across all the months.
-The pivot table data is also plotted into a *pivot chart* which helps visually understand the trends in outcomes based on the launch month.
+This analysis will help Louise understand the outcome of fundraising campaigns basd on which month of the year the campaign was launched.The analysis filters all campaigns which fall under the subcategory *'theatre'* and have outcomes of either *'successful'*, *'failed'* or *'canceled'*. This is done through use of *pivot table* function. The table provides a count of the campaigns under each of the outcome category across all the months.
+The pivot table data is also plotted into a *pivot chart* which helps visually understand the trends in outcomes based on the launch month. The line graph below provides a visual representation of number of campaigns for each outcome and the trend across each month. 
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/84694664/123526450-01520600-d6a6-11eb-884b-6beb59fd1b57.png)
 
 ### Analysis of Outcomes Based on Goals
-This analysis summarizes the data based on goal range from less than 1000 to greater than 50,000, categorzing it into subdivisions of 5000. Using COUNTIFS function the number of *'succesful'*, *'failed'* or *'canceled'* outcomes are found. The outcome data is also converted into percent of the total projects in that range.
+This analysis summarizes the data based on goal range from less than 1000 to greater than 50,000, categorzing it into subdivisions of 5000. Using COUNTIFS function the number of *'successful'*, *'failed'* or *'canceled'* outcomes are found. The outcome data is also converted into percent of the total projects in that range.
 The following line graph helps visualize the data of outcomes vs goal.
 
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/84694664/123526693-96a1ca00-d6a7-11eb-81db-802dc4077960.png)
 
 ### Challenges and Difficulties Encountered
-
+This analysis does not take into account the trends based on country
 ## Results
 
-- What are two conclusions you can draw about the Outcomes based on Launch Date?
+*Conclusions about the Outcomes based on Launch Date*
+ - The most successful fundraising campaigns are in the month of May. Overall the sucessful campaigns in comparison to failed ones is over 50% for the months of May, June and July. There is a decreasing trend in successful campaigns from May to September with a slight increase again in October. This is possibly due to theater season which runs typically from September to May and the fundraising campaign is in preparation for that. 
+ - The number of campaigns failing each month is relatively constant. The failure rate in relation to the total number of the campaigns during the actual theatre season (September to May) is higher than during May to July.
+
 
 - What can you conclude about the Outcomes based on Goals?
 
