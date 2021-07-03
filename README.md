@@ -23,7 +23,7 @@ The following line graph helps visualize the data of outcomes vs goal.
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/84694664/123526693-96a1ca00-d6a7-11eb-81db-802dc4077960.png)
 
 ### Challenges and Difficulties Encountered
-This analysis does not take into account several other factors which may help Louise frame a better fundraising campaign. For instance the trends based on country will be helpful for Louise to plan based on where her play will be launched.
+This analysis does not take into account several other factors which may help Louise frame a better fundraising campaign. For instance the trends based on country will be helpful for Louise to plan based on where her play will be launched.Further, the analysis aggregates the goal amount of the campaigns irrespective of the currency of the country.
 To create the outcomes based on goal table it was cumbersome to create it manually. Automating the process to get the results through code would have reduced time and possibility of human error.
 
 ## Results
@@ -35,8 +35,8 @@ To create the outcomes based on goal table it was cumbersome to create it manual
 Louise should launch her fundraising campaign in the month of May-July to see a higher success chance.
 
 ### Conclusions about the Outcomes based on Goals
-- The highest successful campaign (76%) is when the campaign goal is lesser than $1000. The success rate decreases steeply as the campaign goal amount increases.
-- Hoever the success rate increases to 67% for goal amount of $35000 to $50000. On reviewing the actual data it can be seen that the dataset is very small (a total of 9 campaigns with 6 successful ones). This cannot be the only result to draw a conclusion.
+- The highest successful campaign (76%) is when the campaign goal is lesser than 1000. The success rate decreases steeply as the campaign goal amount increases.
+- However the success rate increases to 67% for goal amount of 35000 to 50000. On reviewing the actual data it can be seen that the dataset is very small (a total of 9 campaigns with 6 successful ones). This cannot be the only result to draw a conclusion.
 
 Louise should keep her goal within $5000 to ensure a successful campaign.
 
@@ -44,10 +44,7 @@ Louise should keep her goal within $5000 to ensure a successful campaign.
 
 ### Some other possible tables and/or graphs
 Some additional analysis based on countries can help Louise review trends and make changes in her fundraising strategies, if required. Below are 2 graphs for US and Great Britain whose results are slighlty different especially for Great Britain. This can be easily extracted by adding a simple filter of *'Country'* to the pivot table in *'Analysis of Outcomes Based on Launch Date'*
-![GB](https://user-images.githubusercontent.com/84694664/124361715-81282500-dbfe-11eb-98b8-06c04e37bc6e.png) ![US](https://user-images.githubusercontent.com/84694664/124361717-838a7f00-dbfe-11eb-843a-ef893fe3bee5.png)
 
+![GB](https://user-images.githubusercontent.com/84694664/124361715-81282500-dbfe-11eb-98b8-06c04e37bc6e.png) 
 
-
-
-
-
+![US](https://user-images.githubusercontent.com/84694664/124361717-838a7f00-dbfe-11eb-843a-ef893fe3bee5.png)
