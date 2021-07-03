@@ -29,7 +29,7 @@ To create the outcomes based on goal table it was cumbersome to create it manual
 ## Results
 
 ### Conclusions about the Outcomes based on Launch Date
- - The most successful fundraising campaigns are in the month of May. Overall the sucessful campaigns in comparison to failed ones is over 50% for the months of May, June and July. There is a decreasing trend in successful campaigns from May to September with a slight increase again in October. This is possibly due to theater season which runs typically from September to May and the fundraising campaign is in preparation for that. 
+ - The most successful fundraising campaigns are in the month of May. Overall the sucessful campaigns in comparison to failed ones is over 50% for the months of May, June and July. There is a decreasing trend in successful campaigns from May to September with a slight increase again in October. This is possibly due to theater season which runs typically from September to May and the fundraising campaign is in preparation for that. The success rate rising again in October could be associated with last minute funraising campaigns for plays during Holiday season in November and December.
  - The number of campaigns failing each month is relatively constant. The failure rate in relation to the total number of the campaigns during the actual theatre season (September to May) is higher than during May to July.
 
 Louise should launch her fundraising campaign in the month of May-July to see a higher success chance.
