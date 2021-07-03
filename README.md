@@ -6,7 +6,7 @@ Louie is a playwright who wants to start crowdfunding campaign to fund her lates
 The excel data available is large and difficult to skim through easily to help answer key questions for Louise. The right data needs to be extracted from the large dataset and analyzed.
 The following analysis will help Louise analyze kickstarter website data to set her up for success. The analysis will -
 - help understand how different campaigns fared in relation to the launch date and funding goals of the campaign
-- provide a visual representation of the campaign outcomes vs launch date and fundinf goals
+- provide a visual representation of the campaign outcomes vs launch date and funding goals
 Louise can use the results of the analysis to plan the fundraising campaign for her play. The challenges of the data will also be laid out for Louise to ensure she is aware of the risks.
 ## Analysis and Challenges
 
@@ -32,7 +32,7 @@ Additionally, this analysis does not help Louise plan for how long she should ru
 
 ### Conclusions about the Outcomes based on Launch Date
  - The most successful fundraising campaigns are in the month of May. Overall the sucessful campaigns in comparison to failed ones is over 50% for the months of May, June and July. There is a decreasing trend in successful campaigns from May to September with a slight increase again in October. This is possibly due to theater season which runs typically from September to May and the fundraising campaign is in preparation for that. The success rate rising again in October could be associated with last minute funraising campaigns for plays during Holiday season in November and December.
- - The number of campaigns failing each month is relatively constant. The failure rate in relation to the total number of the campaigns during the actual theatre season (September to May) is higher than during May to July.
+ - The number of campaigns failing each month is statistically insignificant. The failure rate in relation to the total number of the campaigns during the actual theatre season (September to May) is higher than during May to July.
 
 Louise should launch her fundraising campaign in the month of May-July to see a higher success chance.
 
@@ -40,7 +40,7 @@ Louise should launch her fundraising campaign in the month of May-July to see a 
 - The highest successful campaign (76%) is when the campaign goal is lesser than 1000. The success rate decreases steeply as the campaign goal amount increases.
 - However the success rate increases to 67% for goal amount of 35000 to 50000. On reviewing the actual data it can be seen that the dataset is very small (a total of 9 campaigns with 6 successful ones). This cannot be the only result to draw a conclusion.
 
-Louise should keep her goal within $5000 to ensure a successful campaign.
+Louise should keep her goal within 5000 to ensure a successful campaign.
 
 ### Limitations of this dataset
 To create a successful fundraising campaign one must also be able to target the right donors. This dataset does not provide any details on the different type of donors and why they are donating.
