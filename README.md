@@ -43,7 +43,7 @@ Louise should launch her fundraising campaign in the month of May-July to see a 
 Louise should keep her goal within 5000 to ensure a successful campaign.
 
 ### Limitations of this dataset
-To create a successful fundraising campaign one must also be able to target the right donors. This dataset does not provide any details on the different type of donors and why they are donating.
+To create a successful fundraising campaign one must also be able to target the right donors. This dataset does not provide any details on the different type of donors and why they are donating. For Louise to narrow down the analysis it would have been helpful to have additional category of genre within the plays.
 
 ### Some other possible tables and/or graphs
 Some additional analysis based on countries can help Louise review trends and make changes in her fundraising strategies, if required. Below are 2 graphs for US and Great Britain whose results are slighlty different especially for Great Britain. This can be easily extracted by adding a simple filter of *'Country'* to the pivot table in *'Analysis of Outcomes Based on Launch Date'*
